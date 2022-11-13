@@ -126,7 +126,7 @@ correct: "b",
 },
 {
 question: "20. Není všechno zlato, ....",
-a: "co se třpití.",
+a: "co se třpytí.",
 b: "co je těžký.",
 
 correct: "a",
